@@ -13,9 +13,9 @@ key_jump = keyboard_check_pressed(vk_space);
 var move = key_right - key_left;
 //horizontal speed = movement direction * walking speed
 hsp = move * walksp;
-vsp = move + grv;
+vsp = vsp + grv;
 
-if(place_meeting(x,y+1,oWall)  && (key_jump)){
+if(place_meeting(x,y+1,oFloor)  && (key_jump)){
 	vsp = -7;
 }
 
@@ -38,3 +38,6 @@ if (place_meeting(x, y+vsp, oFloor)){
 }
 //horizontal coordinate of the object
 y = y + vsp;
+
+
+//animation
