@@ -245,6 +245,30 @@
                 "resourcePath": "sprites\\sFloor\\sFloor.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "e49ed57c-dc55-40df-b428-ab6e48153598",
+            "Value": {
+                "id": "a05c78ae-1251-4321-b61b-2470460250f9",
+                "resourcePath": "objects\\oBox\\oBox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ed742233-68fc-45cc-b58c-e22fc0934256",
+            "Value": {
+                "id": "e2e94056-c419-4c7b-a7da-7bebfad4c197",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "f719a9e9-388f-4247-a1fd-1c1baf29db8a",
+            "Value": {
+                "id": "b66c0ae0-e52e-4476-911f-4c9119fff12c",
+                "resourcePath": "sprites\\boxStill\\boxStill.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
