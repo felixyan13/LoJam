@@ -41,3 +41,21 @@ y = y + vsp;
 
 
 //animation
+//depending on box/amount of level completion
+//before completing box 1
+
+image_xscale = 1.5;
+image_yscale = 1.5;
+
+if(hsp == 0){
+	sprite_index = spritePlayerStill;
+	image_speed = 0; //speed of animation
+	image_index = 0;
+}
+else{
+	image_xscale = sign(hsp)*1.5; //can also scale the size
+	image_speed = 1;
+	sprite_index = spritePlayerMove;	
+}
+
+
