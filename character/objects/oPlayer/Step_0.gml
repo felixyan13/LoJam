@@ -55,11 +55,44 @@ if(hsp == 0){
 	sprite_index = spritePlayerStill;
 	image_speed = 0; //speed of animation
 	image_index = 0;
+	if(global.color == "YELLOW"){
+		image_index = 1;	
+	}
+	if(global.color == "RED"){
+		image_index = 2;	
+	}
+	if(global.color == "ORANGE"){
+		image_index = 3;	
+	}
+	if(global.color == "GREEN"){
+		image_index = 4;	
+	}
+	if(global.color == "PURPLE"){
+		image_index = 5;	
+	}
+	//condition colour for all gems to show
+	//condition for crown to show
 }
 else{
 	image_xscale = sign(hsp)*1.5; //can also scale the size
 	image_speed = 1;
 	sprite_index = spritePlayerMove;	
+	if(global.color == "YELLOW"){
+		sprite_index = spritePlayerMoveG1;	
+	}
+	if(global.color == "RED"){
+		sprite_index = spritePlayerMoveG2;		
+	}
+	if(global.color == "ORANGE"){
+		sprite_index = spritePlayerMoveG3;		
+	}
+	if(global.color == "GREEN"){
+		sprite_index = spritePlayerMoveG4;		
+	}
+	if(global.color == "PURPLE"){
+		sprite_index = spritePlayerMoveG5;		
+	}
+	//condition for all gems to show
 }
 
 
