@@ -6,8 +6,8 @@ var inst = instance_place(x, y, oPlayer);// check for collision
 
 if (inst != noone) // if there is a collision, inst is set to the id of the collided instance
  {
-	sprite_index = boxOpeningRed;
-	spriteType = "boxOpenRed";
+	sprite_index = boxOpening;
+	spriteType = "boxOpen";
 	image_speed = 0.6;
 
 	}
