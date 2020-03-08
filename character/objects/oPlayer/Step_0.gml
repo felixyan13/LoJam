@@ -7,7 +7,7 @@ key_left = keyboard_check(vk_left); //checks if virtual keyboard left is pressed
 key_right = keyboard_check(vk_right);
 //for a key press, not held down event:
 vsp = vsp + grv;
-if(room == room1){
+if(global.color == "ORANGE"){
 	key_jump = keyboard_check_pressed(vk_space);
 	if(place_meeting(x,y+1,oFloor)  && (key_jump)){
 	vsp = -7;
