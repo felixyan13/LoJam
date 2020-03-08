@@ -4,7 +4,36 @@
     "mvc": "1.0",
     "name": "objectLightningRod",
     "eventList": [
-        
+        {
+            "id": "1b4a0c50-7a95-46e1-9660-5d5359ebb277",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "cda77d2f-9834-40cb-9e3c-cf273257e003"
+        },
+        {
+            "id": "1d204f27-6455-4f53-83b2-46409daa05e5",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "cda77d2f-9834-40cb-9e3c-cf273257e003"
+        },
+        {
+            "id": "2b8d631c-6f51-4306-bb66-3c6f48229cc2",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "005c7349-c238-4929-8929-523320a17ce2",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "cda77d2f-9834-40cb-9e3c-cf273257e003"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
