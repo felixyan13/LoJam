@@ -1,5 +1,5 @@
 /// @description Insert description here
-if (spriteType = "boxOpen"){
+if (spriteType = "boxOpenRed"){
 	spriteType = "";
 	global.color = "RED"
 image_speed = 0;
