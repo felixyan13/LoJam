@@ -58,16 +58,16 @@ if(hsp == 0){
 	if(global.color == "YELLOW"){
 		image_index = 1;	
 	}
-	if(global.color == "RED"){
+	else if(global.color == "RED"){
 		image_index = 2;	
 	}
-	if(global.color == "ORANGE"){
+	else if(global.color == "ORANGE"){
 		image_index = 3;	
 	}
-	if(global.color == "GREEN"){
+	else if(global.color == "GREEN"){
 		image_index = 4;	
 	}
-	if(global.color == "PURPLE"){
+	else if(global.color == "PURPLE"){
 		image_index = 5;	
 	}
 	//condition colour for all gems to show
@@ -80,16 +80,16 @@ else{
 	if(global.color == "YELLOW"){
 		sprite_index = spritePlayerMoveG1;	
 	}
-	if(global.color == "RED"){
+	else if(global.color == "RED"){
 		sprite_index = spritePlayerMoveG2;		
 	}
-	if(global.color == "ORANGE"){
+	else if(global.color == "ORANGE"){
 		sprite_index = spritePlayerMoveG3;		
 	}
-	if(global.color == "GREEN"){
+	else if(global.color == "GREEN"){
 		sprite_index = spritePlayerMoveG4;		
 	}
-	if(global.color == "PURPLE"){
+	else if(global.color == "PURPLE"){
 		sprite_index = spritePlayerMoveG5;		
 	}
 	//condition for all gems to show
