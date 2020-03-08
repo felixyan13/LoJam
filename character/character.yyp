@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "0a2ea678-a2a0-462f-a59e-054a70391526",
+            "Value": {
+                "id": "ba6b67f5-f9a0-4d82-bce3-3de8cecec8f9",
+                "resourcePath": "sprites\\spritebkgnd2\\spritebkgnd2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0e93b42f-7ad7-45fa-8afc-e7b10e16ca8a",
             "Value": {
                 "id": "cd791780-22c0-426d-908a-773ebf69febb",
@@ -91,6 +99,14 @@
             "Value": {
                 "id": "169f6296-fa85-4b7b-99ea-b611a09073a7",
                 "resourcePath": "sprites\\boxStillYellow\\boxStillYellow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1bceaea3-a373-4454-9184-3b890c52c164",
+            "Value": {
+                "id": "dbd10f17-1df1-4570-8836-816ddcf0549a",
+                "resourcePath": "sprites\\spritebkgnd3\\spritebkgnd3.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -108,14 +124,6 @@
                 "id": "b0860dc8-2e68-458b-bc14-5fb560a66573",
                 "resourcePath": "objects\/oPlayer\/oPlayer.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "2529a933-bba5-4870-b4d6-3585b813c753",
-            "Value": {
-                "id": "9a3f124f-4f76-475e-929e-76acbd3b5219",
-                "resourcePath": "sprites\\spriteThunderCloudB1\\spriteThunderCloudB1.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -295,10 +303,10 @@
             }
         },
         {
-            "Key": "894e06d6-5e95-4fb9-97bb-406e08ebc5e9",
+            "Key": "881a4f2c-116b-4673-a7d9-10c7a06bfceb",
             "Value": {
-                "id": "dc3ed209-d19d-4fff-bf49-8913f47f750c",
-                "resourcePath": "sprites\/spriteThunderCloudB2\/spriteThunderCloudB2.yy",
+                "id": "637c9013-33c9-4ca4-bb48-6499eff355e5",
+                "resourcePath": "sprites\\spriteTCloudYellow\\spriteTCloudYellow.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -339,6 +347,14 @@
             "Value": {
                 "id": "07de83ee-2c44-431c-bcf7-776c22688620",
                 "resourcePath": "sprites\/doorOpening\/doorOpening.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c21ddc26-48de-4b7e-9069-b71289311e46",
+            "Value": {
+                "id": "d78767fc-94a1-4423-a748-68ac037a7d4c",
+                "resourcePath": "sprites\\spriteTCloudBlue\\spriteTCloudBlue.yy",
                 "resourceType": "GMSprite"
             }
         },
