@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "09d49d27-9689-492d-8db4-d27e5e615257",
+            "Value": {
+                "id": "764d10fb-e07e-42a8-865d-2bf78e714d3d",
+                "resourcePath": "views\\09d49d27-9689-492d-8db4-d27e5e615257.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0e93b42f-7ad7-45fa-8afc-e7b10e16ca8a",
             "Value": {
                 "id": "cd791780-22c0-426d-908a-773ebf69febb",
@@ -239,14 +247,6 @@
             }
         },
         {
-            "Key": "d5613a10-a5bb-488d-8720-725c5cda129b",
-            "Value": {
-                "id": "b2a956d0-5401-46e9-8438-b13b909c46a3",
-                "resourcePath": "views\\d5613a10-a5bb-488d-8720-725c5cda129b.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "d6ea9a85-a362-474f-9357-f1db8f93dda8",
             "Value": {
                 "id": "a397ce3a-cf5d-47ea-99ff-9912518075da",
@@ -283,6 +283,30 @@
             "Value": {
                 "id": "ba591844-ff51-498c-8f85-f24af85e6795",
                 "resourcePath": "sprites\\spritePlayerMoveG4\\spritePlayerMoveG4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e49ed57c-dc55-40df-b428-ab6e48153598",
+            "Value": {
+                "id": "a05c78ae-1251-4321-b61b-2470460250f9",
+                "resourcePath": "objects\\oBox\\oBox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ed742233-68fc-45cc-b58c-e22fc0934256",
+            "Value": {
+                "id": "e2e94056-c419-4c7b-a7da-7bebfad4c197",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "f719a9e9-388f-4247-a1fd-1c1baf29db8a",
+            "Value": {
+                "id": "b66c0ae0-e52e-4476-911f-4c9119fff12c",
+                "resourcePath": "sprites\\boxStill\\boxStill.yy",
                 "resourceType": "GMSprite"
             }
         }
