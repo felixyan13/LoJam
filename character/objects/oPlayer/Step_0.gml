@@ -43,7 +43,14 @@ if (place_meeting(x, y+vsp, oFloor)){
 //horizontal coordinate of the object
 y = y + vsp;
 
-
+if (keyboard_check_pressed(vk_escape))
+{
+	//reset color and settings
+	global.color = "";
+	room_goto(room0);
+	oPlayer.x = 50;
+	oPlayer.y = 570;
+}
 //animation
 //depending on box/amount of level completion
 //before completing box 1
