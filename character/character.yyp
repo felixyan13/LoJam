@@ -95,19 +95,19 @@
             }
         },
         {
-            "Key": "0db89b09-974a-4233-937b-888f75b86002",
-            "Value": {
-                "id": "5ac9072e-9140-4f70-9362-7c5092e5797e",
-                "resourcePath": "objects\/o_jetpack\/o_jetpack.yy",
-                "resourceType": "GMObject"
-                }
-        },
-        {
             "Key": "0a2ea678-a2a0-462f-a59e-054a70391526",
             "Value": {
                 "id": "ba6b67f5-f9a0-4d82-bce3-3de8cecec8f9",
                 "resourcePath": "sprites\\spritebkgnd2\\spritebkgnd2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0db89b09-974a-4233-937b-888f75b86002",
+            "Value": {
+                "id": "5ac9072e-9140-4f70-9362-7c5092e5797e",
+                "resourcePath": "objects\/o_jetpack\/o_jetpack.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -251,6 +251,14 @@
             "Value": {
                 "id": "81bd3dcd-a944-4481-b4a0-0757bbdc7f9b",
                 "resourcePath": "sprites\/s_prisoner1\/s_prisoner1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "49df42a5-b175-42d5-96f7-133e7758d419",
+            "Value": {
+                "id": "56cc0767-553d-4aa6-ac9a-81b9db9df2d4",
+                "resourcePath": "sprites\\boxStillOrange\\boxStillOrange.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -487,6 +495,14 @@
             }
         },
         {
+            "Key": "8d50a803-0577-4348-b67f-9bb6904a50a1",
+            "Value": {
+                "id": "afea07a1-4526-4fc2-af73-e65c6b870804",
+                "resourcePath": "sprites\/s_door1\/s_door1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8f4a0109-3255-4a13-ba30-fea4cc020808",
             "Value": {
                 "id": "6e55a537-1fe6-433c-bd0a-e42cabbae25c",
@@ -500,14 +516,6 @@
                 "id": "6398b916-e74d-4b44-82b8-0dcab666b295",
                 "resourcePath": "objects\\objectLever\\objectLever.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "8d50a803-0577-4348-b67f-9bb6904a50a1",
-            "Value": {
-                "id": "afea07a1-4526-4fc2-af73-e65c6b870804",
-                "resourcePath": "sprites\/s_door1\/s_door1.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
