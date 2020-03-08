@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "353fced4-ca84-4444-896f-a5ad811d57aa",
+            "Value": {
+                "id": "6eddfe90-46f8-4343-a5b6-ae0ab6d30115",
+                "resourcePath": "objects\\oBoxOrange\\oBoxOrange.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "36c11bf0-008d-4bdd-b4c9-9a11c79fa7f1",
             "Value": {
                 "id": "689944d7-793c-4231-9eb8-bcfaa73202bc",
@@ -627,6 +635,14 @@
             "Value": {
                 "id": "140b792e-94d2-43ab-88b5-4d2af6b48f78",
                 "resourcePath": "sprites\/s_cliff\/s_cliff.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bc0a0b7f-3f4e-4fe0-bd0b-44692cf7e4a3",
+            "Value": {
+                "id": "525f72f7-777b-4809-9427-16e6e4a6b286",
+                "resourcePath": "sprites\\boxOpeningOrange\\boxOpeningOrange.yy",
                 "resourceType": "GMSprite"
             }
         },
