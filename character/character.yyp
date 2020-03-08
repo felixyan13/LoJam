@@ -55,11 +55,27 @@
             }
         },
         {
+            "Key": "040734fc-3bee-4c32-ac59-07bf80fc19e5",
+            "Value": {
+                "id": "578e92a5-a55c-4cd1-a3c9-eeb13478cf27",
+                "resourcePath": "sprites\\spriteLightningRod\\spriteLightningRod.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "06d11bdb-b118-4f4b-aac2-6c24b29fca90",
             "Value": {
                 "id": "1c1837cb-24b9-4c8d-8bde-5d7efadc4b85",
                 "resourcePath": "sprites\\spritePlayerMoveG1\\spritePlayerMoveG1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "09d49d27-9689-492d-8db4-d27e5e615257",
+            "Value": {
+                "id": "764d10fb-e07e-42a8-865d-2bf78e714d3d",
+                "resourcePath": "views\\09d49d27-9689-492d-8db4-d27e5e615257.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -98,7 +114,7 @@
             "Key": "306a6e33-c82a-4818-9fe6-ec455535e7b3",
             "Value": {
                 "id": "817186b5-bab7-49d9-839b-68fba1571170",
-                "resourcePath": "sprites\\sprite13\\sprite13.yy",
+                "resourcePath": "sprites\\spriteCloudAnimation\\spriteCloudAnimation.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -156,6 +172,14 @@
                 "id": "496e0a1f-10ed-456c-95bc-68776bd26923",
                 "resourcePath": "views\\628eda6f-db3c-4201-9bb3-838a982b5273.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6a0e1c3d-4aa8-4923-af02-e38bcbef24d3",
+            "Value": {
+                "id": "e32c79e9-e47a-4a81-817a-5ffd588fea52",
+                "resourcePath": "sprites\\spriteLightningRodAnimation\\spriteLightningRodAnimation.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -255,6 +279,14 @@
             }
         },
         {
+            "Key": "cda77d2f-9834-40cb-9e3c-cf273257e003",
+            "Value": {
+                "id": "7913b9f0-5073-406f-9030-ca7ddfd7a151",
+                "resourcePath": "objects\\objectLightningRod\\objectLightningRod.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cf0a39a2-a712-471f-87d8-10e450ced59a",
             "Value": {
                 "id": "93e6f9a2-e1a3-4b4f-bcec-99fd3e7ab4c7",
@@ -267,14 +299,6 @@
             "Value": {
                 "id": "1ea95f47-d49d-42e9-ba86-495cada170be",
                 "resourcePath": "views\\d180baaf-10eb-4540-ae07-357abe3d57e3.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "d5613a10-a5bb-488d-8720-725c5cda129b",
-            "Value": {
-                "id": "b2a956d0-5401-46e9-8438-b13b909c46a3",
-                "resourcePath": "views\\d5613a10-a5bb-488d-8720-725c5cda129b.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -315,6 +339,30 @@
             "Value": {
                 "id": "ba591844-ff51-498c-8f85-f24af85e6795",
                 "resourcePath": "sprites\\spritePlayerMoveG4\\spritePlayerMoveG4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e49ed57c-dc55-40df-b428-ab6e48153598",
+            "Value": {
+                "id": "a05c78ae-1251-4321-b61b-2470460250f9",
+                "resourcePath": "objects\\oBox\\oBox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ed742233-68fc-45cc-b58c-e22fc0934256",
+            "Value": {
+                "id": "e2e94056-c419-4c7b-a7da-7bebfad4c197",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "f719a9e9-388f-4247-a1fd-1c1baf29db8a",
+            "Value": {
+                "id": "b66c0ae0-e52e-4476-911f-4c9119fff12c",
+                "resourcePath": "sprites\\boxStill\\boxStill.yy",
                 "resourceType": "GMSprite"
             }
         }

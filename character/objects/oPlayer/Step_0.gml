@@ -6,18 +6,22 @@
 key_left = keyboard_check(vk_left); //checks if virtual keyboard left is pressed
 key_right = keyboard_check(vk_right);
 //for a key press, not held down event:
-key_jump = keyboard_check_pressed(vk_space);
+vsp = vsp + grv;
+if(room == room1){
+	key_jump = keyboard_check_pressed(vk_space);
+	if(place_meeting(x,y+1,oFloor)  && (key_jump)){
+	vsp = -7;
+}
+}
 	
 //calculate movement
 //var means the temp variable is only checked in the current frame
 var move = key_right - key_left;
 //horizontal speed = movement direction * walking speed
 hsp = move * walksp;
-vsp = vsp + grv;
 
-if(place_meeting(x,y+1,oFloor)  && (key_jump)){
-	vsp = -7;
-}
+
+
 
 //horizontal collision detection
 if (place_meeting(x+hsp, y, oFloor)){

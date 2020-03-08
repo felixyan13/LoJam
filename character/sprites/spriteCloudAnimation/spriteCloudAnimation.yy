@@ -2,7 +2,7 @@
     "id": "306a6e33-c82a-4818-9fe6-ec455535e7b3",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite13",
+    "name": "spriteCloudAnimation",
     "For3D": false,
     "HTile": false,
     "VTile": false,
