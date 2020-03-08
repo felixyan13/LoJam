@@ -135,6 +135,22 @@
             }
         },
         {
+            "Key": "38c58d64-74cc-47e0-a88b-86b271285fcd",
+            "Value": {
+                "id": "f7d639ec-438c-41a7-b7d3-f5201b742272",
+                "resourcePath": "sprites\\doorClosedBlue\\doorClosedBlue.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3d3d0c1b-0d0c-4d4a-8348-54a490519a0d",
+            "Value": {
+                "id": "c5ea90ac-2709-4af4-a0b1-84be46125df1",
+                "resourcePath": "sprites\\doorClosed\\doorClosed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4a7ad570-36de-411b-875e-5aa0ea06c017",
             "Value": {
                 "id": "8158e2cb-c6d6-40e0-9368-cfd5cf3d8619",
@@ -207,6 +223,14 @@
             }
         },
         {
+            "Key": "71bb169f-9801-4e2a-950a-fbaf23a5a758",
+            "Value": {
+                "id": "d9184a2f-e5e6-4f48-8273-6b1a3068c3f4",
+                "resourcePath": "views\\71bb169f-9801-4e2a-950a-fbaf23a5a758.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "728be826-916a-4dbb-9d52-9a5de8a0f30e",
             "Value": {
                 "id": "418c38e4-46cf-4354-9862-beab003b2af0",
@@ -276,6 +300,14 @@
                 "id": "28a8bbff-cbd1-4596-8c56-b231993dacc2",
                 "resourcePath": "views\\b234bd39-0784-4d1c-91da-5b6932e5f53a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b5a96099-4c3b-4e17-ba4f-68d9606ec85c",
+            "Value": {
+                "id": "07de83ee-2c44-431c-bcf7-776c22688620",
+                "resourcePath": "sprites\\doorOpening\\doorOpening.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -419,6 +451,14 @@
             "Value": {
                 "id": "b66c0ae0-e52e-4476-911f-4c9119fff12c",
                 "resourcePath": "sprites\\boxStill\\boxStill.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fe36286d-4be0-4b3d-939f-49211dc261e2",
+            "Value": {
+                "id": "8873d933-9963-496d-9491-cd24186866ab",
+                "resourcePath": "sprites\\doorOpeningBlue\\doorOpeningBlue.yy",
                 "resourceType": "GMSprite"
             }
         }
