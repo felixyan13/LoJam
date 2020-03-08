@@ -143,14 +143,6 @@
             }
         },
         {
-            "Key": "292b80a5-d1bc-43c1-9202-dba10a4211ba",
-            "Value": {
-                "id": "4217b6c2-9b42-49c9-aeaf-cb77c7d6dba4",
-                "resourcePath": "sprites\/spritebkgnd1\/spritebkgnd1.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "2f01ce16-ce84-4247-9922-9606aa04d508",
             "Value": {
                 "id": "aba7e741-26d7-41f8-b796-285f377b59d4",
@@ -327,6 +319,14 @@
             }
         },
         {
+            "Key": "87eaa784-f262-453c-afba-afdb68e2a61b",
+            "Value": {
+                "id": "5a0720ec-62ad-4e40-a96a-cf0561eaf659",
+                "resourcePath": "objects\\o_startgame\\o_startgame.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "881a4f2c-116b-4673-a7d9-10c7a06bfceb",
             "Value": {
                 "id": "637c9013-33c9-4ca4-bb48-6499eff355e5",
@@ -395,6 +395,14 @@
             "Value": {
                 "id": "07de83ee-2c44-431c-bcf7-776c22688620",
                 "resourcePath": "sprites\/doorOpening\/doorOpening.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b906f103-f7e1-4331-9f59-7cbb5e1e9c90",
+            "Value": {
+                "id": "07555ae0-7757-4774-9aa1-2b73d79c2041",
+                "resourcePath": "sprites\\s_playgame\\s_playgame.yy",
                 "resourceType": "GMSprite"
             }
         },
