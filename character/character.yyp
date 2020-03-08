@@ -551,6 +551,14 @@
             }
         },
         {
+            "Key": "941375f0-7655-45e7-a394-3653453e01c8",
+            "Value": {
+                "id": "6191cdab-731d-40a0-88c8-bf5d6837a47c",
+                "resourcePath": "objects\\King\\King.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "98bc5c09-18ad-4506-a29a-59990c9c0a8f",
             "Value": {
                 "id": "3915cd45-d2a8-4ce7-89f5-5b194dcfc536",
@@ -588,6 +596,22 @@
                 "id": "cc7ec70c-49ca-45d4-a136-7f9a4b9061d8",
                 "resourcePath": "rooms\\roombeginning\\roombeginning.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a7199f73-1128-4eb8-83a7-2bc1d7e0545b",
+            "Value": {
+                "id": "62004e4e-1e4a-4b0f-a65d-16f2cb7d4ffc",
+                "resourcePath": "sprites\\sKing\\sKing.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "abd42a4f-d1c0-4c10-acb0-96a9fcb25d5d",
+            "Value": {
+                "id": "6f82f3af-690a-4957-b22c-884f6a055b25",
+                "resourcePath": "sprites\\boxOpeningEnding\\boxOpeningEnding.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -655,6 +679,14 @@
             }
         },
         {
+            "Key": "bea11c79-7c68-48bd-9a79-b7854921af15",
+            "Value": {
+                "id": "7747de9e-4f54-46d5-b7f9-f9dad65887a9",
+                "resourcePath": "objects\\oBoxEnding\\oBoxEnding.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c21ddc26-48de-4b7e-9069-b71289311e46",
             "Value": {
                 "id": "d78767fc-94a1-4423-a748-68ac037a7d4c",
@@ -716,6 +748,14 @@
                 "id": "7913b9f0-5073-406f-9030-ca7ddfd7a151",
                 "resourcePath": "objects\/objectLightningRod\/objectLightningRod.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ce17533e-c40b-4275-8176-8c48ec7da53e",
+            "Value": {
+                "id": "ca3a28ff-0c99-473f-8c2a-d938eaf851f6",
+                "resourcePath": "sprites\\boxStillEnding\\boxStillEnding.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

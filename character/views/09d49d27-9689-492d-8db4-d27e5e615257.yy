@@ -6,6 +6,7 @@
     "children": [
         "06d11bdb-b118-4f4b-aac2-6c24b29fca90",
         "03d87670-af00-4ab0-9c42-be9e7d62b854",
+        "abd42a4f-d1c0-4c10-acb0-96a9fcb25d5d",
         "e673a386-61c5-40f1-baf8-e54fe3423242",
         "7e52643d-4472-4767-a2e2-1ea9f08def0e",
         "4d1ba8d7-2e05-4837-b504-b8c82341e95e",
@@ -19,6 +20,7 @@
         "df0ca65b-12dd-43c0-8ba2-d55a42693d9d",
         "03de1495-c491-4349-a308-a330849c8d0c",
         "f719a9e9-388f-4247-a1fd-1c1baf29db8a",
+        "ce17533e-c40b-4275-8176-8c48ec7da53e",
         "f1678c61-0e78-4fc7-9bbd-6d98cb5f99b1",
         "1905367e-2c1c-4ab8-99a4-2d9d6449d850",
         "d7f3b349-cfda-4452-9570-f21fce6b5762",
@@ -48,7 +50,8 @@
         "27032dc4-03c3-4421-b0e0-23df1b181c6e",
         "49df42a5-b175-42d5-96f7-133e7758d419",
         "b906f103-f7e1-4331-9f59-7cbb5e1e9c90",
-        "bc0a0b7f-3f4e-4fe0-bd0b-44692cf7e4a3"
+        "bc0a0b7f-3f4e-4fe0-bd0b-44692cf7e4a3",
+        "a7199f73-1128-4eb8-83a7-2bc1d7e0545b"
     ],
     "filterType": "GMSprite",
     "folderName": "sprites",
