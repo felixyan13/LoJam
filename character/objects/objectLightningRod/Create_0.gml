@@ -6,7 +6,7 @@ image_yscale = 3;
 image_angle = 90;
 image_speed = 0;
 
-if(room == room2){ 
+if(global.color == "YELLOW"){ 
 	sprite_index = spriteLightningRod;
 	image_index = 1;
 }
