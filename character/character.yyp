@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "005c7349-c238-4929-8929-523320a17ce2",
+            "Value": {
+                "id": "86032015-98cb-4a64-b306-e0eeb97c6487",
+                "resourcePath": "objects\\oThunderCloud\\oThunderCloud.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "03d87670-af00-4ab0-9c42-be9e7d62b854",
             "Value": {
                 "id": "4cd7c337-d0fc-49a3-ac1c-4a84aacd03f6",
@@ -84,6 +92,14 @@
                 "id": "aba7e741-26d7-41f8-b796-285f377b59d4",
                 "resourcePath": "views\\2f01ce16-ce84-4247-9922-9606aa04d508.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "306a6e33-c82a-4818-9fe6-ec455535e7b3",
+            "Value": {
+                "id": "817186b5-bab7-49d9-839b-68fba1571170",
+                "resourcePath": "sprites\\sprite13\\sprite13.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -154,7 +170,7 @@
             "Key": "73cca8a7-9327-4bb6-b54f-5644bb04e8a1",
             "Value": {
                 "id": "f9f6f528-6575-4541-8b09-1d6c1a205f52",
-                "resourcePath": "sprites\\spriteThunderCloud\\spriteThunderCloud.yy",
+                "resourcePath": "sprites\\spriteThunderCloudB1\\spriteThunderCloudB1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -172,6 +188,22 @@
                 "id": "113e27bf-0f9a-48ee-bbaa-1c54a151ce1f",
                 "resourcePath": "views\\7e22e434-90c2-4dd1-b2e2-640a4057b764.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "894e06d6-5e95-4fb9-97bb-406e08ebc5e9",
+            "Value": {
+                "id": "dc3ed209-d19d-4fff-bf49-8913f47f750c",
+                "resourcePath": "sprites\\spriteThunderCloudB2\\spriteThunderCloudB2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8cd8ae7d-6161-4bcd-b200-7324b02f2189",
+            "Value": {
+                "id": "03240df8-a370-4b6e-b613-82770dfca58d",
+                "resourcePath": "objects\\objectFriendlyCloud\\objectFriendlyCloud.yy",
+                "resourceType": "GMObject"
             }
         },
         {
