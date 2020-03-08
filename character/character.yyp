@@ -463,6 +463,14 @@
             }
         },
         {
+            "Key": "9cc1b26d-22e6-4261-befc-2ad684dd20b3",
+            "Value": {
+                "id": "b62adc58-d898-4121-b80a-da25478be27e",
+                "resourcePath": "sounds\/sound0\/sound0.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "9d8af4ab-95ae-41a4-822e-3947cce986c6",
             "Value": {
                 "id": "e81c4ad4-b4c5-4b70-8d86-2c54f1afb077",
