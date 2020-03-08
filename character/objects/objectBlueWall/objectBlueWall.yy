@@ -1,28 +1,28 @@
 {
-    "id": "005c7349-c238-4929-8929-523320a17ce2",
+    "id": "8f4a0109-3255-4a13-ba30-fea4cc020808",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oThunderCloud",
+    "name": "objectBlueWall",
     "eventList": [
         {
-            "id": "6d6bef97-389d-446a-ada3-1532a2f7c71b",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "005c7349-c238-4929-8929-523320a17ce2"
-        },
-        {
-            "id": "d10be0ef-9c5f-47e2-86bd-2a8d883d7da7",
+            "id": "aec4c32f-78ad-4834-917f-57fc8e7a4196",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "005c7349-c238-4929-8929-523320a17ce2"
+            "m_owner": "8f4a0109-3255-4a13-ba30-fea4cc020808"
+        },
+        {
+            "id": "daf31066-44f8-4042-a455-68ea5ebc6722",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "8f4a0109-3255-4a13-ba30-fea4cc020808"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "c21ddc26-48de-4b7e-9069-b71289311e46",
+    "spriteId": "27032dc4-03c3-4421-b0e0-23df1b181c6e",
     "visible": true
 }

@@ -19,6 +19,9 @@ if(global.color == "ORANGE"){
 var move = key_right - key_left;
 //horizontal speed = movement direction * walking speed
 hsp = move * walksp;
+if(global.color == "BLUE"){
+	hsp = 2*move*walksp;	
+}
 
 
 

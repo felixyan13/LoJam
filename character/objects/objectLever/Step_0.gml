@@ -6,10 +6,14 @@ if(global.color == "BLUE"){
 	image_index = 0;
 	if(keyboard_check_pressed(vk_enter) && place_meeting(x,y,oPlayer)){
 		image_index = 1;
+		flip = 1;
 	}
-	
 }
 else{
 	sprite_index = spriteLever;
 	image_index = 2;
+}
+
+if(flip == 1){
+	image_index = 1;
 }
