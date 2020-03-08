@@ -4,8 +4,8 @@
 image_speed = 1; //speed of animation
 
 if(global.color == "BLUE"){
-	sprite_index = spriteThunderCloudB1;
+	sprite_index = spriteTCloudBlue;
 }
 else if(global.color == "YELLOW"){
-	sprite_index = spriteThunderCloudB2;
+	sprite_index = spriteTCloudYellow;
 }

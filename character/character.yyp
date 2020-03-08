@@ -119,14 +119,6 @@
             }
         },
         {
-            "Key": "2529a933-bba5-4870-b4d6-3585b813c753",
-            "Value": {
-                "id": "9a3f124f-4f76-475e-929e-76acbd3b5219",
-                "resourcePath": "sprites\\spriteThunderCloudB1\\spriteThunderCloudB1.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "292b80a5-d1bc-43c1-9202-dba10a4211ba",
             "Value": {
                 "id": "4217b6c2-9b42-49c9-aeaf-cb77c7d6dba4",
@@ -295,6 +287,14 @@
             }
         },
         {
+            "Key": "881a4f2c-116b-4673-a7d9-10c7a06bfceb",
+            "Value": {
+                "id": "637c9013-33c9-4ca4-bb48-6499eff355e5",
+                "resourcePath": "sprites\\spriteTCloudYellow\\spriteTCloudYellow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8cd8ae7d-6161-4bcd-b200-7324b02f2189",
             "Value": {
                 "id": "03240df8-a370-4b6e-b613-82770dfca58d",
@@ -331,6 +331,14 @@
             "Value": {
                 "id": "07de83ee-2c44-431c-bcf7-776c22688620",
                 "resourcePath": "sprites\/doorOpening\/doorOpening.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c21ddc26-48de-4b7e-9069-b71289311e46",
+            "Value": {
+                "id": "d78767fc-94a1-4423-a748-68ac037a7d4c",
+                "resourcePath": "sprites\\spriteTCloudBlue\\spriteTCloudBlue.yy",
                 "resourceType": "GMSprite"
             }
         },
