@@ -1,2 +1,2 @@
 # LoJam2020
-LoJam Repo for Felix, Khadija, Rachelle, and Sam.
+This is a game that my team and I developed called Hidden Colors. The need that was identified was to create a game that would either help those dealing with mental health. We designed the game to try to get the user to empathize with those dealing with mental health, by designing levels and challenges that reflect the handicaps that others live with daily. GameMaker Studio was the platform that was chosen, and the video game was able to win runner up for best mental health hack. Here is the link to see the game in action! https://itch.io/jam/lojam-2020/rate/583857
